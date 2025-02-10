@@ -245,14 +245,14 @@ p{
 }
 
 .olho{
-    background-image: url('/site/logo/olhoaberto2.jpg');
+    background-image: url('/logo/olhoaberto2.jpg');
     background-size: cover;
     width: 150px;
     height: 120px;
     transition: 0.7s ease-in-out;
    
     &:hover{
-        background-image: url('/site/logo/olhofechado2.jpg');
+        background-image: url('/logo/olhofechado2.jpg');
     }
 }
 
